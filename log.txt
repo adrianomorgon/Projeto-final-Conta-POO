@@ -1,0 +1,8 @@
+Novo cliente Jose cadastrado
+Nova conta cadastrada id: 111 para cliente Jose
+Novo cliente Maria cadastrado
+Nova conta cadastrada id: 112 para cliente Maria
+Nova conta cadastrada id: 113 para cliente Maria
+Deposito efetuado no valor de 500.0 para a conta id 111 de titular Jose
+Deposito efetuado no valor de 300.0 para a conta id 112 de titular Maria
+Saque efetuado no valor de 400.0 para a conta id 111 de titular Jose
